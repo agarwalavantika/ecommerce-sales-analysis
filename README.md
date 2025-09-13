@@ -1,4 +1,4 @@
-Online Retail Sales Analysis
+### Online Retail Sales Analysis
 
 ## Project Overview
 
@@ -6,6 +6,26 @@ This project analyzes an **E-commerce sales dataset (UCI Online Retail)** using 
 The goal is to extract business insights such as top products, customer lifetime value, and country-wise sales distribution.
 
 ---
+
+
+### Preview
+![Dashboard Overview]
+<img width="1604" height="815" alt="image" src="https://github.com/user-attachments/assets/4ca95aca-e944-4c73-a81a-7783a0543ea9" />
+
+
+#### Top 10 Products by Revenue
+![Top Products]
+<img width="1339" height="358" alt="image" src="https://github.com/user-attachments/assets/13cf6386-33a7-407a-af4c-d933a441ab95" />
+
+
+#### Monthly Revenue Trend
+![Monthly Revenue]
+<img width="1340" height="709" alt="image" src="https://github.com/user-attachments/assets/d6f533db-fc68-4780-86e5-79b53a06881d" />
+
+
+#### CLV Distribution
+![CLV Distribution]
+<img width="1353" height="717" alt="image" src="https://github.com/user-attachments/assets/8571589e-d176-49eb-b74a-0a46d7d6b794" />
 
 
 
@@ -67,6 +87,7 @@ The SQL insights were visualized in **Tableau Public** with 5 views:
 * **VS Code + GitHub**
 
 ---
+
 
 
 
